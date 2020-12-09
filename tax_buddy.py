@@ -1,6 +1,6 @@
 
 ### Insert whatever file you want to read here ###
-### Note: Must have two letter state abbreviations on right, and ammount with no dollar sign or decimal on the right. ###
+### Note: Must have two letter state abbreviations on left, and ammount with no dollar sign or decimal on the right. ###
 
 source = open('list.txt', 'r')
 
